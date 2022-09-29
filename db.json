@@ -1,0 +1,51 @@
+{
+  "seller": [
+    {
+      "name": "Prince Kumar",
+      "email": "pksp2924@gmail.com",
+      "password": "prince123",
+      "id": 1
+    },
+    {
+      "name": "Rohit Kumar",
+      "email": "rks2924@gmail.com",
+      "password": "rohit123",
+      "id": 2
+    },
+    {
+      "name": "Vivan Bhanot",
+      "password": "vivan123",
+      "email ": "vivan@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Gopi Gill",
+      "password": "gopi123",
+      "email ": "gopi@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Arav Sharma",
+      "password": "arav123",
+      "email ": "arav@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "prince kumar",
+      "password": "prince123",
+      "email ": "test@test.com",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "Lays",
+      "price": "4.99",
+      "category": "mobile",
+      "color": "black",
+      "description": "xsxdc",
+      "image": "",
+      "id": 1
+    }
+  ]
+}
